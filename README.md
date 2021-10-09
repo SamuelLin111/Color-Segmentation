@@ -2,7 +2,6 @@
 
 ![Color Segementaion GIF](Example-20-Colors-15-Iterations.gif)
 
-Project: https://github.com/SamuelLin111/Color-Segmentation
 
 This project is about grouping a picture into an inputed amount of colors. This could later be used to modify colors.
 ![Color Segementaion GIF](Color-Modification.png)
