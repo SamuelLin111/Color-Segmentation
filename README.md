@@ -4,6 +4,7 @@
 
 
 This project is about grouping a picture into an inputed amount of colors. This could later be used to modify colors.
+
 ![Color Segementaion GIF](Color-Modification.png)
 
 Example of color modification: Color of plate on left bottom corner is modified to white.
