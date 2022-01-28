@@ -1,6 +1,6 @@
 # Color-Segmentation
 
-![Color Segementaion GIF](Color-Segmentation-Example.gif)
+![Color Segementaion GIF](Color-Segmentation-Fish-Example.gif)
 
 
 This project is about grouping a picture into an inputed amount of colors. This could later be used to modify colors.
